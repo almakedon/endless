@@ -1,4 +1,4 @@
-module github.com/acheong08/endless
+module github.com/almakedon/endless
 
 go 1.20
 
